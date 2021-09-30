@@ -5,13 +5,13 @@ Projeto foi feito usando IntelliJ IDEA
 
 - Noções básicas de Java: vetores (arrays) e matrizes
 ## Exercício 1
-Elabore um programa que calcule a média aritmética dos elementos de um vetor com N números reais.
+Elabore um programa chamado **Exercicio1** que calcule a média aritmética dos elementos de um vetor com N números reais.
 ## Exercício 2
-Elabore um programa que imprima o maior e o segundo maior elementos de um vetor de N números reais. 
+Elabore um programa chamado **Exercicio2** que imprima o maior e o segundo maior elementos de um vetor de N números reais. 
 
 Pressuponha que o vetor não tem elementos repetidos.
 ## Exercício 3
-Elabore um programa que ordene por ordem alfabética um vetor de nomes, aplicando o algoritmo de ordenação por seleção. 
+Elabore um programa chamado **Exercicio3** que ordene por ordem alfabética um vetor de nomes, aplicando o algoritmo de ordenação por seleção. 
 
 Por exemplo, ordenação da seguinte lista de K nomes por ordem alfabética:
 
@@ -27,6 +27,6 @@ Por exemplo, ordenação da seguinte lista de K nomes por ordem alfabética:
 | 5        |         |        |       |       | Pedro | Teresa |
 
 ## Exercício 4
-Elabore um programa que determine o maior elemento de uma matriz de números reais. 
+Elabore um programa chamado **Exercicio4** que determine o maior elemento de uma matriz de números reais. 
 
 Pressuponha que não há elementos repetidos.
